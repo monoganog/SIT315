@@ -4,8 +4,6 @@
 const uint8_t MOTIONSENSOR_PIN = 12;
 const uint8_t LED_PIN = 13;
 
-bool motionDetected = false;
-
 //Setup to be Ran once to initialise the Button and LED
 void setup()
 {
